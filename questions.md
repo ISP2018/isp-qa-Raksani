@@ -1,4 +1,4 @@
-#Questions
+# Questions
 Q1 : What is a “brown bag session” in. [PAD](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf) number **6. Raise the bar for you and your team.**
 
 Q2 : What is/are true about [Gitflow](https://guides.github.com/introduction/flow/)
@@ -24,7 +24,7 @@ Q4 : Matching these following software processes with their qualities.
 Q5 : Ordering the domain to sub-domain (large to small) of www.ku.ac.th 
 
 
-#Answers
+# Answers
 A1 : **the brown bag session** means the discussion (of whatever type) will occur over lunch. People used to carry their lunch in a 
 brown paper bag (historical - this usually meant a *sandwich plus a drink, dessert*, etc.). So a brown bag session means to bring your 
 lunch and drink, plan on eating and drinking while the topic is covered. The sessions can be structured or unstructured and are often used to transfer knowledge, solve problems, brainstorm, and 
