@@ -37,6 +37,7 @@ from (D) There's no debug in master branch.
 A3 : In summary, *AI* has the ability to help companies understand their customers’ mobile.
 
 A4 : (1) Scrum (2) Kanban (3) Scrum (4) Kanban
+
 In summary, Scrum is a framework with the customer involvement but Kanban is introducing change through incremental improvements.
 
 A5 : 
