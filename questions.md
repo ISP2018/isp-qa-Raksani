@@ -15,6 +15,7 @@ Q4 : Matching these following software processes with their qualities.
 * Kanban
 
 (1) _____ your organization is really stuck and needs a fundamental shift towards a more efficient process.
+
 (2) _____ If you already have working processes, which you want to improve over time without shaking up the whole system.
 
 (3) _____ It has the Sprint Planning meeting and the Spring Retrospective.
