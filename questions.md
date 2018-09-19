@@ -21,6 +21,9 @@ Q4 : Matching these following software processes with their qualities.
 
 (4) _____ It’s no process framework.
 
+Q5 : Ordering the domain to sub-domain (large to small) of www.ku.ac.th 
+
+
 #Answers
 A1 : **the brown bag session** means the discussion (of whatever type) will occur over lunch. People used to carry their lunch in a 
 brown paper bag (historical - this usually meant a *sandwich plus a drink, dessert*, etc.). So a brown bag session means to bring your 
@@ -35,3 +38,8 @@ A3 : In summary, *AI* has the ability to help companies understand their custome
 
 A4 : (1) Scrum (2) Kanban (3) Scrum (4) Kanban
 In summary, Scrum is a framework with the customer involvement but Kanban is introducing change through incremental improvements.
+
+A5 : 
+* th : abbreviation of Thailand. (first-level domain) 
+* ac : abbreviation of academia. (second-level domain) 
+* ku : third-level domain 
